@@ -20,7 +20,6 @@
 [ORBSLAM2原理代码详解19- 图像描述子转化为BowVector和FeatureVector](https://www.bilibili.com/video/BV17K4y1Y7DJ)
 
 
-![大纲](https://github.com/electech6/ORB_SLAM2_detailed_comments/blob/master/outline.png)
 
 
 
